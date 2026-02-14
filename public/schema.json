@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Green Tape Agro Industries",
+  "url": "https://greentapeagro.com",
+  "logo": "https://greentapeagro.com/logo.png",
+  "description": "Premium organic compost producer for agriculture and gardening",
+  "sameAs": [
+    "https://www.facebook.com/greentapeagro",
+    "https://www.instagram.com/greentapeagro",
+    "https://www.twitter.com/greentapeagro"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Sales Support",
+    "telephone": "+91-9876543210",
+    "email": "info@greentapeagro.com"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 Agriculture Lane",
+    "addressLocality": "Bangalore",
+    "addressRegion": "Karnataka",
+    "postalCode": "560001",
+    "addressCountry": "IN"
+  }
+}
